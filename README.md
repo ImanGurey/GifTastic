@@ -6,6 +6,7 @@ In this assignment, we used the GIPHY API to make a dynamic web page that popula
 
 Click on the following link to preview the completed assignment.
 
+https://imangurey.github.io/GifTastic/
 
 *Built With
 
