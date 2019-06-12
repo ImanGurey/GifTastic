@@ -70,7 +70,7 @@ $(document).ready(function () {
 
 
 
-    $(document).on("click", "#input", displayImg);
+//     $(document).on("click", "#input", displayImg);
     $(document).on("click", ".gif", changeState);
 
 });
