@@ -9,16 +9,16 @@ Click on the following link to preview the completed assignment.
 
 https://imangurey.github.io/GifTastic/
 
-*Built With
+* Built With
 
-*HTML5
+* HTML5
 
-*CSS3
+* CSS3
 
-*Twitter-Bootstrap - Framework
+* Twitter-Bootstrap - Framework
 
-*JavaScript
+* JavaScript
 
-*jQuery - JavaScript Library
+* jQuery - JavaScript Library
 
-*giphy API
+* giphy API
